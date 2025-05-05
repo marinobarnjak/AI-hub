@@ -5,6 +5,7 @@
 This project is part of the *Basics of Web Technologies* course in the second year of my undergraduate studies.  
 It showcases my understanding of modern web technologies, including design patterns and coding using **HTML**, **CSS**, and **JavaScript**.  
 Through this project, I aim to demonstrate my growing proficiency in **Front-End Web Development**, as well as to improve my creativity and design thinking.
+_Phase 1_ is completed and _Phase 2_ is in development. 
 
 ---
 
