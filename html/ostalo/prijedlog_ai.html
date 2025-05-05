@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Marino Barnjak">
+    <meta name="keywords" content="AI, alati, umjetna inteligencija, web aplikacija">
+
+    <link rel="stylesheet" href="../../css/mbarnjak23.css">
+    <link rel="stylesheet" href="../../css/responzivnost.css">
+    <script src="../../js/mbarnjak23.js"></script>   
+
+    <title>Predloži AI</title>
+</head>
+<body>
+
+    <header>
+        <div class="kontainer">
+            <div class="naslov">
+                <div id="logo">
+                    <a href="../../index.html"><img src="../../resursi/slike/ai_logo.png" alt="LOGO"></a>
+                </div>
+                <div id="naziv">
+                    <h1>AI hub</h1>
+                </div>
+            </div>
+
+        <nav class="navigacija">
+            <ul>
+                <li><a href="../../index.html">Početna stranica</a></li>
+                <li><a href="../../html/oAutoru.html">O autoru</a></li>
+                <li><a href="../../html/dokumentacija.html">Dokumentacija</a></li>
+                <li><a href="../../html/ostalo/kontakt.html">Kontakt</a></li>
+                <li><a href="../../html/ostalo/prijedlog_ai.html" class="aktivna">Predloži AI</a></li>
+            </ul>
+        </nav>
+        </div>
+    </header>
+
+    <div class="obrazac-naslov">
+        <h1>Predloži novi AI alat</h1>
+        <p>Ako znaš za zanimljiv AI alat koji još nije prikazan na našoj stranici, ovdje ga možeš predložiti.</p>
+
+
+        <form action="https://spider.foi.hr/OWT/materijali/ispis_forme.php" class="obrazac" id="obrazac2">
+
+            <div class="obrazac-dio">
+                <label for="naziv-alata">Naziv alata:</label>
+                <input type="text" id="naziv-alata" name="naziv"><br>
+            </div>
+
+            <div class="obrazac-dio">
+                <label for="datum">Datum otkrivanja:</label>
+                <input type="date" id="datum" name="datum"><br>
+            </div>
+
+            <div class="obrazac-dio">
+                <label for="vrijeme">Vrijeme unosa:</label>
+                <input type="time" id="vrijeme" name="vrijeme"><br>
+            </div>
+
+            <div class="obrazac-dio">
+                <label for="url">Službeni URL:</label>
+                <input type="url" id="url" name="url"><br>
+            </div>
+
+            <div class="obrazac-dio">
+                <label for="slika">Dodaj sliku:</label>
+                <input type="file" id="slika" name="slika"><br>
+            </div>
+
+            <div class="obrazac-dio">
+                <label for="boja">Primarna boja alata:</label>
+                <input type="color" id="boja" name="boja"><br>
+            </div>
+
+            <div class="obrazac-dio">
+                <label for="razina">Razina složenosti:</label>
+                <input type="range" id="razina" name="razina" min="1" max="10"><br>
+            </div>
+
+            <div class="obrazac-dio">
+                <input type="reset" value="Poništi" id="ponisti">
+                <input type="submit" value="Predloži alat" id="posalji">
+            </div>
+
+        </form>
+    </div>
+
+   
+    <div class="podnozje">
+        <a href="https://www.perplexity.ai/"><img src="../../resursi/slike/perplexity-logo.png" alt="Logo Perplexity AI"></a>
+        <a href="https://openai.com/index/chatgpt/"><img src="../../resursi/slike/ChatGPT-Logo.png" alt="Logo ChatGPT"></a>
+        <a href="https://gemini.google.com/app"><img src="../../resursi/slike/gemini-logo.png" alt="Logo Gemini AI"></a>
+
+        <p>&copy; 2025 Marino Barnjak</p>
+
+        <a href="https://validator.w3.org/check?uri=https://spider.foi.hr/OWT/2025/zadaca_01/mbarnjak23/html/prijedlog_ai.html">
+            <img class="validator" src="../../resursi/slike/HTML5.png" alt="validator">
+        </a>
+</div>
+    
+    </body>
+    </html>
