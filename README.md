@@ -1,6 +1,6 @@
 # Basics of Web Technology Project – AI Hub
 
-## 📘 About
+## About
 
 This project is part of the *Basics of Web Technologies* course in the second year of my undergraduate studies.  
 It showcases my understanding of modern web technologies, including design patterns and coding using **HTML**, **CSS**, and **JavaScript**.  
@@ -9,13 +9,13 @@ _Phase 1_ is completed and _Phase 2_ is in development.
 
 ---
 
-## 📌 Project Title
+## Project Title
 
 **AI Hub**
 
 ---
 
-## 🌍 Domain Description
+## Domain Description
 
 This project involves the development of a **dynamic web application** that integrates both front-end and back-end technologies.  
 The main goal is to create a **responsive and adaptable web page** that functions well on all devices and screen sizes, delivering an optimal user experience.
@@ -24,7 +24,7 @@ Key elements include the implementation of **modern web design patterns**, prope
 
 ---
 
-## 📋 Project Specification
+## Project Specification
 
 The web application includes the following main features:
 
@@ -47,10 +47,10 @@ The web application includes the following main features:
 
 ---
 
-## 🧾 Task Files
+## Task Files
 
-- 📄 `Phase-1.pdf` – Specification for HTML & CSS development  
-- 📄 `Phase-2.pdf` – Specification for JavaScript and backend integration
+- `Phase-1.pdf` – Specification for HTML & CSS development  
+- `Phase-2.pdf` – Specification for JavaScript and backend integration
 
 ---
 
