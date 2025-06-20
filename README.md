@@ -65,4 +65,4 @@ The web application includes the following main features:
 ---
 
 ## Note
-**Phase 2 is just a upgraded version of the first phase with mentioned technologies**
+Phase 2 serves as an improved and more detailed continuation of Phase 1, with the integration of the mentioned technologies.
