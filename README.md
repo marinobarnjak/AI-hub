@@ -55,7 +55,7 @@ The web application includes the following main features:
 ---
 
 
-## 📎 Technologies Used
+## Technologies Used
 
 - HTML5  
 - CSS3  
