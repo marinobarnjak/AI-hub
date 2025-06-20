@@ -62,6 +62,5 @@ The web application includes the following main features:
 - JavaScript  
 - Node.js   
 - Visual Studio Code  
-- Git & GitHub
 
 
